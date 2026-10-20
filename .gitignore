@@ -1,0 +1,8 @@
+3d-home-tv-os/
+media/
+maccapture
+__pycache__/
+minidlna/db/
+minidlna/*.log
+minidlna/*.pid
+.DS_Store
